@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a30fd1b7f689722295c92e39103f6e44",
+    "revision": "0ae7f82b86705eadc3cbc699fe17bd0f",
     "url": "/kps-app/index.html"
   },
   {
