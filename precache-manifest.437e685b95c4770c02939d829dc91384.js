@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ae7f82b86705eadc3cbc699fe17bd0f",
+    "revision": "96c890814122687839839178135569bb",
     "url": "/kps-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kps-app/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "fa857e1d4356d5b539ad",
+    "revision": "e32139313e9ae093f9f7",
     "url": "/kps-app/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kps-app/static/js/2.374c9d7b.chunk.js.LICENSE"
   },
   {
-    "revision": "fa857e1d4356d5b539ad",
-    "url": "/kps-app/static/js/main.4f4ca388.chunk.js"
+    "revision": "e32139313e9ae093f9f7",
+    "url": "/kps-app/static/js/main.89bee94b.chunk.js"
   },
   {
     "revision": "77a363c09b0e657fa63f",
