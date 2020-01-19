@@ -3,8 +3,7 @@ import './App.css';
 import Table from './components/Table'
 
 export default class App extends Component {
-  organizationID = 649249007;
-  authToken = 'db36e02a50b57e081efe533a8a0f834b';
+  API_URL = "https://kps-api.herokuapp.com";
 
   constructor() {
     super();
@@ -14,7 +13,7 @@ export default class App extends Component {
   }
 
   componentDidMount() {
-    fetch('http://localhost:3001/contacts').then(res => res.json())
+    fetch(`${this.API_URL}/contacts`).then(res => res.json())
       .then(result => this.setState({ data: result.organizations }))
       .catch(err => console.log(err));
   }
